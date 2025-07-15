@@ -1,2 +1,1 @@
-# app-web-3a
-Aplicação Web para Teste
+Alunos: Fillipe Reis, Luis Miguel, Tiago Francisco 3ºA 
